@@ -2,10 +2,9 @@
 
 ## New webpage to understand **git and github**
 
-    Hello Welcome to the _Competitive Coding  FDP Program_
+    Hello Welcome to the Competitive Coding  FDP Program
 
       * DAY-1
       * DAY-2
 
-     ![**_Do u wanna see_Python Framework_**] (https://thepythonguru.com/3-tips-to-hire-a-talented-python-developer/)
-
+     ![training](https://s3-us-west-2.amazonaws.com/robogarden-new/Articles/upload/blogs/lg-leverage-of-coding.jpg)
