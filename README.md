@@ -10,6 +10,5 @@ Hello Welcome to the Competitive Coding  FDP Program
 
 ![**_Do u wanna see image_**](https://s3-us-west-2.amazonaws.com/robogarden-new/Articles/upload/blogs/lg-leverage-of-coding.jpg)
 
-[For Chitti Kadalu goto _Next Page_]
+For Chitti Kadalu goto _Next Page_([two.md])
 
-![story](https://kidsbedtimestoriestelugu.files.wordpress.com/2016/12/img_8082.jpg?w=768)
